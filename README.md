@@ -1,2 +1,2 @@
 # FYP-Project
-Predicting the price of cars using the Catboost algorithm.
+Predicting the price of cars with Machine Learning.
